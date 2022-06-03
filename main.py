@@ -1,4 +1,4 @@
-# kütüphanelerimi import edelim
+# kütüphanelerimizi import edelim
 import cv2
 import numpy as np
 
